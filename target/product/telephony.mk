@@ -22,6 +22,9 @@ PRODUCT_PACKAGES := \
     Mms \
     Stk \
     rild \
-    CellBroadcastReceiver
+    CellBroadcastReceiver \
+    Telecom \
+    TeleService \
+    MmsService
 
 PRODUCT_COPY_FILES := \
