@@ -48,6 +48,9 @@ PRODUCT_PACKAGES += \
     ProxyHandler \
     Settings \
     SharedStorageBackup \
+    Telecom \
+    TeleService \
     VpnDialogs \
+    MmsService
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
